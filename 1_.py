@@ -42,7 +42,6 @@
 # determinEligibility(15)
 # determinEligibility(19)
 #--------------------------------------------------------------------------------------------------------------------
-
 # def willYouGraduate(gpa,credits,SAT):
 #     #gpa :number float variable
 #     #credits: a number variable
